@@ -118,7 +118,7 @@ h6 {
   padding: 1rem;
 }
 
-.card a:hover {
+.card div a:hover {
   opacity: 0.5;
 }
 
@@ -176,10 +176,27 @@ h6 {
   padding: 3rem;
 }
 
+.l-heading {
+  font-size: 3rem;
+  line-height: 3.5rem;
+}
+
 .list li {
   padding: 0.5rem 0;
   border-bottom: #555 dotted 1px;
   width: 90%;
+}
+
+/* Inner Page Grid Container */
+.page-container {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  margin: 2rem 0;
+  grid-gap: 1.5rem;
+}
+
+.page-container > *:first-child {
+  grid-row: 1 / span 2;
 }
 
 /* Navigation */
