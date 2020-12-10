@@ -196,7 +196,7 @@ h6 {
 }
 
 .page-container > *:first-child {
-  grid-row: 1 / span 2;
+  grid-row: 1 / span 3;
 }
 
 /* Navigation */
@@ -291,6 +291,18 @@ h6 {
 
 #home-articles .articles-container > *:last-child {
   grid-column: 2 / span 2;
+}
+
+#content .meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #eee;
+  padding: 0.5rem;
+}
+
+#content .meta .category {
+  margin-top: 0.4rem;
 }
 
 /* Footer */
