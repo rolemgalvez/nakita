@@ -319,7 +319,8 @@ h6 {
   color: #fff;
 }
 
-#main-footer a:hover {
+#main-footer a:hover,
+#categories a:hover {
   color: var(--primary-color);
 }
 
