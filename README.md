@@ -18,7 +18,7 @@ Go now to [NaKita](https://nakita-mrg.netlify.app/) website to view it.
 ## Color Palette
 * orange: `#feb900`
 * blue: `#3967fe`
-* yellow: `#fef139`;
-* red: `#fe3950`;
-* gray: `#f1f1f1`;
-* black: `#383838`;
+* yellow: `#fef139`
+* red: `#fe3950`
+* gray: `#f1f1f1`
+* black: `#383838`
