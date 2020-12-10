@@ -1,7 +1,7 @@
 # Tinderos
 A website showcasing some funny stories you want to see in a blog site setup. 
 
-Go now to [NaKita](https://tinderos-mrg.netlify.com) website to view it.
+Go now to [NaKita](https://nakita-mrg.netlify.app/) website to view it.
 
 ## Preview
 |   Desktop   |
